@@ -78,28 +78,28 @@
             // mni_System_New
             // 
             this.mni_System_New.Name = "mni_System_New";
-            this.mni_System_New.Size = new System.Drawing.Size(270, 34);
+            this.mni_System_New.Size = new System.Drawing.Size(179, 34);
             this.mni_System_New.Text = "Tạo mới";
             this.mni_System_New.Click += new System.EventHandler(this.mni_System_New_Click);
             // 
             // mni_System_Open
             // 
             this.mni_System_Open.Name = "mni_System_Open";
-            this.mni_System_Open.Size = new System.Drawing.Size(270, 34);
+            this.mni_System_Open.Size = new System.Drawing.Size(179, 34);
             this.mni_System_Open.Text = "Mở";
             this.mni_System_Open.Click += new System.EventHandler(this.mni_System_Open_Click);
             // 
             // mni_System_Save
             // 
             this.mni_System_Save.Name = "mni_System_Save";
-            this.mni_System_Save.Size = new System.Drawing.Size(270, 34);
+            this.mni_System_Save.Size = new System.Drawing.Size(179, 34);
             this.mni_System_Save.Text = "Lưu";
             this.mni_System_Save.Click += new System.EventHandler(this.mni_System_Save_Click);
             // 
             // mni_System_Exit
             // 
             this.mni_System_Exit.Name = "mni_System_Exit";
-            this.mni_System_Exit.Size = new System.Drawing.Size(270, 34);
+            this.mni_System_Exit.Size = new System.Drawing.Size(179, 34);
             this.mni_System_Exit.Text = "Thoát";
             this.mni_System_Exit.Click += new System.EventHandler(this.mni_System_Exit_Click);
             // 
@@ -114,8 +114,9 @@
             // mni_Format_Font
             // 
             this.mni_Format_Font.Name = "mni_Format_Font";
-            this.mni_Format_Font.Size = new System.Drawing.Size(150, 34);
+            this.mni_Format_Font.Size = new System.Drawing.Size(270, 34);
             this.mni_Format_Font.Text = "Font";
+            this.mni_Format_Font.Click += new System.EventHandler(this.mni_Format_Font_Click);
             // 
             // toolMain
             // 
